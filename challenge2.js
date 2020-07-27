@@ -1,4 +1,4 @@
-const num=window.prompt();
+const num=window.prompt("Type in any amount of digits you want in Here!");
 const str = num.toString();
 const result = [str[0]];
   
